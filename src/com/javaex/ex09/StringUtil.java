@@ -10,9 +10,7 @@ public class StringUtil {
        }
     	return result;
         //메소드 내용작성
-    	
-    	
-        
+
     }
 
 }

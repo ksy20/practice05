@@ -29,6 +29,18 @@ public class FriendApp {
         	System.out.println("===================");
         	
         }
+        
+        /*
+         for (int i=0; i<friendArray.length; i++) {
+         	Friend friend = new Friend();
+         	
+         	System.out.print("이름: ");
+        	friend.setName(sc.next());
+        	
+        	friendArray[i] = friend;
+         	
+         }
+         */
             
         
 
